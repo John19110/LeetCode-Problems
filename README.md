@@ -5,6 +5,15 @@
 Welcome to my LeetCode solutions repository!  
 This repo contains my daily problem-solving practice with clean, optimized solutions and short implementation notes.
 
+
+<p >
+  🔗 <strong>My LeetCode Profile:</strong>  
+  <a href="https://leetcode.com/u/johnpolis122/" target="_blank">
+    https://leetcode.com/u/johnpolis122/
+  </a>
+</p>
+
+
 ---
 
 ## 📌 About This Repository
